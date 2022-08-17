@@ -17,9 +17,9 @@ export default function Home() {
       </Head>
 
       <main class={tw`bg-gray-100 font-mono text-gray-600 text-sm`}>
-        <div class={tw`mx-auto max-w-screen-md px-4 py-8 `}>
-          <h1 class={tw`sr-only`}>{data["p-name"]}</h1>
+        <h1 class={tw`sr-only`}>{data["p-name"]}</h1>
 
+        <div class={tw`mx-auto max-w-screen-md px-4 py-8 `}>
           {data["p-contact"] && <Header contact={data["p-contact"]} />}
 
           <Section title="Profile">
