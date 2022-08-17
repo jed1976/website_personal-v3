@@ -16,7 +16,7 @@ export default function Home() {
         <title>{data["p-name"]}</title>
       </Head>
 
-      <main class={tw`bg-gray-100 font-mono text-gray-500 text-sm`}>
+      <main class={tw`bg-gray-100 font-mono text-gray-600 text-sm`}>
         <div class={tw`mx-auto max-w-screen-md px-4 py-8 `}>
           <h1 class={tw`sr-only`}>{data["p-name"]}</h1>
 

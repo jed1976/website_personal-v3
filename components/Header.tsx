@@ -11,7 +11,7 @@ export interface Props {
 export function Header({ contact }: Props) {
   return (
     <header class={tw`hcard md:flex md:justify-between mb-8`}>
-      <h2 class={tw`font-bold md:flex-1 text-gray-900 text-3xl uppercase`}>
+      <h2 class={tw`font-bold mb-4 md:flex-1 text-gray-900 text-3xl uppercase`}>
         {contact["p-name"]}
       </h2>
 
