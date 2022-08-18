@@ -229,117 +229,146 @@ export const Resume: HResume = {
     {
       "p-name": "A11Y",
       "p-rating": 7,
-      "dt-duration": "P730D"
+      "dt-duration": "P730D",
+      "u-url": "https://www.a11yproject.com/",
     },
     {
       "p-name": "CSS",
       "p-rating": 9,
-      "dt-duration": "P8030D"
+      "dt-duration": "P8030D",
+      "u-url": "https://developer.mozilla.org/en-US/docs/Web/CSS",
     },
     {
       "p-name": "Deno",
       "p-rating": 8,
-      "dt-duration": "P730D"
+      "dt-duration": "P730D",
+      "u-url": "https://deno.land/",
     },
     {
       "p-name": "Figma",
       "p-rating": 6,
-      "dt-duration": "P365D"
+      "dt-duration": "P365D",
+      "u-url": "https://figma.com/",
     },
     {
       "p-name": "Git",
       "p-rating": 7,
-      "dt-duration": "P365D"
+      "dt-duration": "P365D",
+      "u-url": "https://git-scm.com/",
     },
     {
       "p-name": "GraphQL",
       "p-rating": 8,
-      "dt-duration": "P730D"
+      "dt-duration": "P730D",
+      "u-url": "https://graphql.org/",
     },
     {
       "p-name": "HTML",
       "p-rating": 10,
-      "dt-duration": "P8030D"
+      "dt-duration": "P8030D",
+      "u-url": "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics",
     },
     {
       "p-name": "JavaScript",
-      "p-rating": 10,
-      "dt-duration": "P8030D"
+      "p-rating": 9,
+      "dt-duration": "P8030D",
+      "u-url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
     },
     {
       "p-name": "Markdown",
       "p-rating": 10,
-      "dt-duration": "P1825D"
+      "dt-duration": "P1825D",
+      "u-url": "https://daringfireball.net/projects/markdown/",
     },
     {
       "p-name": "Node",
       "p-rating": 8,
-      "dt-duration": "P3650D"
+      "dt-duration": "P3650D",
+      "u-url": "https://nodejs.org/en/",
     },
     {
       "p-name": "Objective-C",
       "p-rating": 8,
-      "dt-duration": "P1825D"
+      "dt-duration": "P1825D",
+      "u-url": "https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html",
     },
     {
       "p-name": "Photoshop",
       "p-rating": 8,
-      "dt-duration": "P8760D"
+      "dt-duration": "P8760D",
+      "u-url": "https://www.adobe.com/products/photoshop.html",
     },
     {
       "p-name": "PHP",
       "p-rating": 7,
-      "dt-duration": "P3650D"
+      "dt-duration": "P3650D",
+      "u-url": "https://www.php.net/",
     },
     {
       "p-name": "Preact",
       "p-rating": 8,
-      "dt-duration": "P365D"
+      "dt-duration": "P365D",
+      "u-url": "https://preactjs.com/",
     },
     {
       "p-name": "React",
       "p-rating": 8,
-      "dt-duration": "P2555D"
+      "dt-duration": "P2555D",
+      "u-url": "https://reactjs.org/",
     },
     {
       "p-name": "Ruby on Rails",
       "p-rating": 6,
-      "dt-duration": "P365D"
+      "dt-duration": "P365D",
+      "u-url": "https://rubyonrails.org/",
     },
     {
-      "p-name": "SASS",
+      "p-name": "Sass",
       "p-rating": 8,
-      "dt-duration": "P2555D"
+      "dt-duration": "P2555D",
+      "u-url": "https://sass-lang.com/",
     },
     {
       "p-name": "Sketch",
       "p-rating": 9,
-      "dt-duration": "P3650D"
+      "dt-duration": "P3650D",
+      "u-url": "https://www.sketch.com/",
     },
     {
       "p-name": "SQL",
       "p-rating": 7,
-      "dt-duration": "P8760D"
+      "dt-duration": "P8760D",
+      "u-url": "https://docs.oracle.com/cd/B19306_01/server.102/b14200/intro002.htm",
     },
     {
       "p-name": "Svelte",
       "p-rating": 8,
-      "dt-duration": "P365D"
+      "dt-duration": "P365D",
+      "u-url": "https://svelte.dev/",
     },
     {
       "p-name": "Swift",
       "p-rating": 8,
-      "dt-duration": "P365D"
+      "dt-duration": "P365D",
+      "u-url": "https://www.swift.org/",
     },
     {
       "p-name": "TypeScript",
       "p-rating": 8,
-      "dt-duration": "P365D"
+      "dt-duration": "P365D",
+      "u-url": "https://www.typescriptlang.org/",
     },
     {
       "p-name": "Vue",
       "p-rating": 8,
-      "dt-duration": "P365D"
+      "dt-duration": "P365D",
+      "u-url": "https://vuejs.org/",
+    },
+    {
+      "p-name": "Webflow",
+      "p-rating": 8,
+      "dt-duration": "P1460D",
+      "u-url": "https://webflow.com/",
     },
   ]
 }

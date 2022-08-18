@@ -46,7 +46,7 @@ export default function Home() {
             <Fragment>
               {data["p-skills"] && data["p-skills"].map((skill, index) =>
                 <Fragment>
-                  <span class={tw`p-skill`}>{skill["p-name"]}</span>
+                  <a class={tw`p-skill underline`} href={skill["u-url"]} target="_blank">{skill["p-name"]}</a>
                   {data["p-skills"] && index < data["p-skills"].length - 1 ? SEP : null}
                 </Fragment>
               )}
