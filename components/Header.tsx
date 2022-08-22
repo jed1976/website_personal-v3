@@ -19,7 +19,7 @@ export function Header({ contact }: Props) {
         <Address adr={contact["p-adr"]}/>
 
         <a class={tw`u-email block mt-4 underline`} href={`mailto:` + contact["u-email"]} title="Send me an email">{contact["u-email"]}</a>
-        <a class={tw`u-url block underline`} href={contact["u-url"]} target="_blank" title="Visit my site">{contact["u-url"]}</a>
+        <a class={tw`u-url block underline`} href={contact["u-url"]} target="_blank" title="Check out my work">{contact["u-url"]}</a>
       </div>
     </header>
   )
