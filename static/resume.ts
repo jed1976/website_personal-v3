@@ -34,8 +34,8 @@ export interface HResume {
 }
 
 export const Resume: HResume = {
-  "p-name": "Joe Dakroub — UX Developer",
-  "p-summary": "Senior UX Developer with over 25 years of experience specializing in Web standards-based design and development.",
+  "p-name": "Joe Dakroub — Web Developer",
+  "p-summary": "Senior Web Developer with over 25 years of experience specializing in Web standards-based design and development.",
   "p-contact": {
     "p-name": "Joe Dakroub",
     "u-email": "jed76@proton.me",
@@ -142,7 +142,7 @@ export const Resume: HResume = {
       }
     },
     {
-      "p-name": "Owner",
+      "p-name": "Owner/Developer/Designer/Accountant/Janitor",
       "dt-start": "2015",
       "dt-end": "2019",
       "p-summary": "Designed, developed and consulted for industry-leading businesses across diverse verticals including music and entertainment, construction, manufacturing, information technology, retail and more. Learned all aspects of business ownership, management and service.",
