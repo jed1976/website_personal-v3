@@ -1,4 +1,5 @@
-# fresh project
+# Personal Website
+Fresh project to serve resume website.
 
 ### Usage
 
