@@ -1,5 +1,5 @@
-# Personal website built with Fresh
-Fresh project to serve my personal website.
+# Website for Joe Dakroub
+Website built with [Fresh](https://fresh.deno.dev/).
 
 ### Usage
 
