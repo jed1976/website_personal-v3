@@ -39,7 +39,7 @@ export const Resume: HResume = {
   "p-contact": {
     "p-name": "Joe Dakroub",
     "u-email": "jed76@proton.me",
-    "u-url": "https://github.com/joedakroub",
+    "u-url": "https://github.com/jed1976",
     "p-adr": {
       "p-street-address": "9013 N 24th Ave",
       "p-extended-address": "Suite 1 DTC1109",
