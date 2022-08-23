@@ -142,7 +142,7 @@ export const Resume: HResume = {
       }
     },
     {
-      "p-name": "Owner/Developer/Designer/Accountant/Janitor",
+      "p-name": "Owner",
       "dt-start": "2015",
       "dt-end": "2019",
       "p-summary": "Designed, developed and consulted for industry-leading businesses across diverse verticals including music and entertainment, construction, manufacturing, information technology, retail and more. Learned all aspects of business ownership, management and service.",
