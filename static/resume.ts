@@ -38,7 +38,7 @@ export const Resume: HResume = {
   "p-summary": "Senior Web Developer with over 25 years of experience specializing in standards-based design and development.",
   "p-contact": {
     "p-name": "Joe Dakroub",
-    "u-email": "jed76@proton.me",
+    "u-email": "jed1976@pm.me",
     "u-url": "https://github.com/jed1976",
     "p-adr": {
       "p-street-address": "9013 N 24th Ave",
