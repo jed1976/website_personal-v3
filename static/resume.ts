@@ -143,7 +143,7 @@ export const Resume: HResume = {
       "dt-end": "2019",
       "p-summary": "Designed, developed and consulted for industry-leading businesses across diverse verticals including music and entertainment, construction, manufacturing, information technology, retail and more. Learned all aspects of business ownership, management and service.",
       "p-location": {
-        "p-name": "Hand Whittled",
+        "p-name": "Hand Whittled, LLC",
         "p-adr": {
           "p-street-address": "99 Wenonah Dr",
           "p-locality": "Pontiac",
