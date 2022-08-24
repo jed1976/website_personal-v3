@@ -55,16 +55,14 @@ export const Resume: HResume = {
       "dt-start": "1994",
       "dt-end": "2000",
       "p-location": {
-        "p-name": "University of Michigan - Flint",
+        "p-name": "University of Michigan",
         "p-adr": {
           "p-street-address": "303 E Kearsley St",
           "p-region": "Flint",
           "p-locality": "Michigan",
           "p-postal-code": "48502",
           "p-country-name": "United States",
-        },
-        "u-photo": "",
-        "u-url": "https://www.umflint.edu",
+        }
       },
       "p-summary": "Completed over 80 credits towards a BFA in Music Performance and a Minor in Technical Writing",
     },
@@ -80,9 +78,7 @@ export const Resume: HResume = {
           "p-locality": "Michigan",
           "p-postal-code": "48346",
           "p-country-name": "United States",
-        },
-        "u-photo": "",
-        "u-url": "https://chs.clarkston.k12.mi.us",
+        }
       },
       "p-summary": "High School Degree",
     }
