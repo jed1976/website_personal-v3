@@ -8,7 +8,7 @@ export interface HAdr {
 }
 
 export interface HCard {
-  "p-adr": HAdr;
+  "p-adr"?: HAdr;
   "p-name": string;
   "u-photo"?: string;
   "p-tel"?: string;
@@ -85,10 +85,13 @@ export const Resume: HResume = {
   ],
   "p-experience": [
     {
-      "p-name": "",
+      "p-name": "Developer",
       "dt-start": "2022",
-      "dt-end": "present",
+      "dt-end": "Present",
       "p-summary": "Integrating TypeScript into my development workflow. Exploring AI-generated art with DALL-E and Midjourney. Seeking new employment opportunities.",
+      "p-location": {
+        "p-name": "Independent",
+      }
     },
     {
       "p-name": "UX Developer",
