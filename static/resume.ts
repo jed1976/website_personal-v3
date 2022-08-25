@@ -365,5 +365,11 @@ export const Resume: HResume = {
       "dt-duration": "P1460D",
       "u-url": "https://webflow.com/",
     },
+    {
+      "p-name": "Xcode",
+      "p-rating": 8,
+      "dt-duration": "P5475D",
+      "u-url": "https://developer.apple.com/xcode/",
+    },
   ]
 }
