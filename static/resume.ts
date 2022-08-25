@@ -21,7 +21,7 @@ export interface HEvent {
   "dt-start": string;
   "p-name": string;
   "p-summary"?: string;
-  "p-location": HCard;
+  "p-location"?: HCard;
 }
 
 export interface HResume {
@@ -84,6 +84,12 @@ export const Resume: HResume = {
     }
   ],
   "p-experience": [
+    {
+      "p-name": "",
+      "dt-start": "2022",
+      "dt-end": "present",
+      "p-summary": "Integrating TypeScript into my development workflow. Exploring AI-generated art with DALL-E and Midjourney. Seeking new employment opportunities.",
+    },
     {
       "p-name": "UX Developer",
       "dt-start": "2020",
