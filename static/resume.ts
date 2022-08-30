@@ -85,15 +85,6 @@ export const Resume: HResume = {
   ],
   "p-experience": [
     {
-      "p-name": "Developer",
-      "dt-start": "2022",
-      "dt-end": "Present",
-      "p-summary": "Integrating TypeScript into my development workflow. Exploring AI-generated art with DALL-E and Midjourney. Seeking new employment opportunities.",
-      "p-location": {
-        "p-name": "Independent",
-      }
-    },
-    {
       "p-name": "UX Developer",
       "dt-start": "2020",
       "dt-end": "2022",
