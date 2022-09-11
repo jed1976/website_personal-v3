@@ -306,6 +306,12 @@ export const Resume: HResume = {
       "u-url": "https://preactjs.com/",
     },
     {
+      "p-name": "PWAs",
+      "p-rating": 8,
+      "dt-duration": "P1460D",
+      "u-url": "https://web.dev/progressive-web-apps/",
+    },
+    {
       "p-name": "React",
       "p-rating": 8,
       "dt-duration": "P2555D",
