@@ -22,10 +22,6 @@ export default function Home() {
         <div class={tw`mx-auto max-w-screen-md px-4 py-8 `}>
           {data["p-contact"] && <Header contact={data["p-contact"]} />}
 
-          <Section title="Profile">
-            <p>{data["p-summary"]}</p>
-          </Section>
-
           <Section title="Experience">
             <Fragment>
               {data["p-experience"] && data["p-experience"].map(exp =>
