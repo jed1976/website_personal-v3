@@ -1,6 +1,4 @@
-/** @jsx h */
-import { Fragment, h } from "preact";
-import { tw } from "@twind";
+import { Fragment } from "preact";
 import { HAdr } from "../static/resume.ts";
 
 export interface Props {
@@ -16,7 +14,7 @@ export function Address({ adr }: Props) {
         : null
       }
 
-      <hr class={tw`block invisible`} />
+      <hr class="block invisible" />
 
       <span class="p-locality">{adr["p-locality"]}</span>, <span class="p-region">{adr["p-region"]}</span> <span class="p-postal-code">{adr["p-postal-code"]}</span>
     </div>
