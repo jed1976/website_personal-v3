@@ -23,7 +23,7 @@ export default function Home() {
 
       <h1 class="sr-only">{data["p-name"]}</h1>
 
-      <main class={COLOR + " font-mono text-black text-opacity-60 text-sm"}>
+      <main class={COLOR + " font-mono pb-2 text-black text-opacity-60 text-sm"}>
         <div class="mx-auto max-w-screen-md px-4 py-8 ">
           {data["p-contact"] && <Header contact={data["p-contact"]} />}
 
@@ -54,6 +54,9 @@ export default function Home() {
             </Fragment>
           </Section>
         </div>
+        <a class="inline-block ml-3" href="https://fresh.deno.dev">
+          <img width="197" height="37" src="https://fresh.deno.dev/fresh-badge-dark.svg" alt="Made with Fresh" />
+        </a>
       </main>
     </Fragment>
   );
