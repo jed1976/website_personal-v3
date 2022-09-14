@@ -19,6 +19,8 @@ export default function Home() {
     <Fragment>
       <Head>
         <title>{data["p-name"]}</title>
+        <meta name="description" content={data["p-summary"]} />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
       </Head>
 
       <h1 class="sr-only">{data["p-name"]}</h1>
