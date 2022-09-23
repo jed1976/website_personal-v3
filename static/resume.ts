@@ -234,6 +234,12 @@ export const Resume: HResume = {
       "u-url": "https://developer.mozilla.org/en-US/docs/Web/CSS",
     },
     {
+      "p-name": "Custom Elements",
+      "p-rating": 10,
+      "dt-duration": "P1825D",
+      "u-url": "https://html.spec.whatwg.org/multipage/custom-elements.html",
+    },
+    {
       "p-name": "Deno",
       "p-rating": 8,
       "dt-duration": "P730D",
