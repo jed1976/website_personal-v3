@@ -228,6 +228,12 @@ export const Resume: HResume = {
       "u-url": "https://www.a11yproject.com/",
     },
     {
+      "p-name": "BEM",
+      "p-rating": 9,
+      "dt-duration": "P1460D",
+      "u-url": "https://getbem.com/",
+    },
+    {
       "p-name": "CSS",
       "p-rating": 9,
       "dt-duration": "P8030D",
