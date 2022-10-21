@@ -34,7 +34,7 @@ export interface HResume {
 }
 
 export const Resume: HResume = {
-  "p-name": "Joe Dakroub — Web Developer",
+  "p-name": "Joe Dakroub — Senior Web Developer",
   "p-summary": "Senior web developer and designer specializing in web standards, HTML, CSS and JavaScript.",
   "p-contact": {
     "p-name": "Joe Dakroub",
