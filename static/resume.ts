@@ -35,7 +35,7 @@ export interface HResume {
 
 export const Resume: HResume = {
   "p-name": "Joe Dakroub — Web Developer",
-  "p-summary": "Web developer specializing in standards-based design and development.",
+  "p-summary": "Senior web developer and designer specializing in web standards, HTML, CSS and JavaScript.",
   "p-contact": {
     "p-name": "Joe Dakroub",
     "u-email": "jed1976@pm.me",
@@ -367,7 +367,7 @@ export const Resume: HResume = {
     },
     {
       "p-name": "TypeScript",
-      "p-rating": 8,
+      "p-rating": 7,
       "dt-duration": "P365D",
       "u-url": "https://www.typescriptlang.org/",
     },
