@@ -7,11 +7,9 @@ export interface Props {
 
 export function Section({ children, title }: Props) {
   return (
-    <section class="md:flex mb-5">
-      <h3 class="font-bold leading-loose mb-2 md:w-36">{title}</h3>
-      <div class="flex-1">
-        {children}
-      </div>
+    <section class="mb-5">
+      <h3 class="font-bold leading-loose mb-2 md:w-36 text-uppercase">{title}</h3>
+      {children}
     </section>
   )
 }
